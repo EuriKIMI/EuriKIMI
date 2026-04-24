@@ -19,10 +19,10 @@ Frontend developer focused on clean interfaces, practical user flows, and intera
 | Project | What it shows |
 | --- | --- |
 | [Guitar Tuner Web](https://github.com/EuriKIMI/Guitar-Tuner-Web) | Browser audio interaction, pitch detection, and user feedback logic. |
+| [Lesson Planner](https://github.com/EuriKIMI/lesson-planner) | A planning-focused build that supports structured workflow thinking and practical interface design. |
 | [Projects Hub](https://github.com/EuriKIMI/projects) | A collection of complete builds, including app-style and interactive projects. |
 | [Sushi Website](https://github.com/EuriKIMI/Sushi-Website) | Polished frontend layout, visual design, and responsive presentation. |
 | [Dad Jokes Generator](https://github.com/EuriKIMI/Dad-Jokes-Generator) | API-style interaction, JavaScript state, and simple user experience polish. |
-| [Certificates](https://github.com/EuriKIMI/certificates) | Learning proof around AI, prompt engineering, and practical generative AI concepts. |
 
 ## Current focus
 
