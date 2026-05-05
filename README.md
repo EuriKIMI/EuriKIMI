@@ -46,4 +46,4 @@ I'm open to internships, junior frontend roles, collaborations, and freelance fr
 
 - Portfolio: add your live portfolio link here
 - GitHub: [github.com/EuriKIMI](https://github.com/EuriKIMI)
-- LinkedIn: [kimi-euri-estacio](https://www.linkedin.com/in/kimi-euri-estacio-6a7003393/)
+- LinkedIn: [Kimi-Euri-Estacio]([https://www.linkedin.com/in/kimi-euri-estacio-6a7003393/](https://www.linkedin.com/in/kimieuriestacio/))
