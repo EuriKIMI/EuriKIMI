@@ -1,49 +1,165 @@
-# Hi, I'm Kimi
+<h1 align="center">Kimi Euri Estacio</h1>
+<p align="center"><strong>Student | Web Designer | Frontend Developer</strong></p>
+<p align="center">
+  I design and build responsive interfaces, practical frontend apps, and cleaner user experiences for portfolio projects, case studies, and product-style builds.
+</p>
 
-Frontend developer focused on clean interfaces, practical user flows, and interactive web experiences. I enjoy turning ideas into responsive, usable projects with HTML, CSS, JavaScript, React, and Firebase.
+<p align="center">
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/View_Projects-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact_Me-D46A2E?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me">
+  </a>
+</p>
 
-![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-0F172A?style=for-the-badge&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open_to-Internships_%26_Junior_Roles-0F766E?style=for-the-badge&logoColor=white)
-![Build Focus](https://img.shields.io/badge/Current_Focus-Interactive_Web_Apps-1D4ED8?style=for-the-badge&logoColor=white)
+## About
 
-## What I build
+I focus on modern web design, frontend development, and UI/UX thinking that improves clarity, usability, and visual polish. My work blends HTML, CSS, JavaScript, React, Figma-based interface planning, responsive design systems, WordPress familiarity, and an AI-assisted development workflow for faster iteration, research, and implementation.
 
-- Product-style frontend apps with real user flows
-- Responsive landing pages and portfolio websites
-- Interactive JavaScript projects
-- Firebase-backed features for authentication and real-time data
-- Small AI-assisted tools and experiments
+## Skills
 
-## Featured work
+### Frontend
 
-| Project | What it shows |
-| --- | --- |
-| [Guitar Tuner Web](https://github.com/EuriKIMI/Guitar-Tuner-Web) | Browser audio interaction, pitch detection, and user feedback logic. |
-| [Lesson Planner](https://github.com/EuriKIMI/lesson-planner) | A planning-focused build that supports structured workflow thinking and practical interface design. |
-| [Projects Hub](https://github.com/EuriKIMI/projects) | A collection of complete builds, including app-style and interactive projects. |
-| [Sushi Website](https://github.com/EuriKIMI/Sushi-Website) | Polished frontend layout, visual design, and responsive presentation. |
-| [Dad Jokes Generator](https://github.com/EuriKIMI/Dad-Jokes-Generator) | API-style interaction, JavaScript state, and simple user experience polish. |
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
+- Responsive UI
 
-## Current focus
+### Design
 
-- Strengthening React project architecture
-- Building more complete frontend applications
-- Improving UI polish, accessibility, and deployment workflow
-- Practicing Firebase authentication and real-time data patterns
+- Figma
+- UI Design
+- UX Design
+- Responsive Design
+- Design Systems
+- Visual Hierarchy
 
-## Tech stack
+### Tools
 
-![HTML](https://img.shields.io/badge/HTML-1E40AF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=67E8F9)
-![Firebase](https://img.shields.io/badge/Firebase-0891B2?style=for-the-badge&logo=firebase&logoColor=E0F2FE)
-![GitHub](https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white)
+- Git
+- GitHub
+- VS Code
+- Firebase
+- Supabase
+- AI Tools
 
-## Let's connect
+## Projects
 
-I'm open to internships, junior frontend roles, collaborations, and freelance frontend projects.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Uber Clone App <img src="https://img.shields.io/badge/Featured-181717?style=flat-square" alt="Featured"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-Mobile_App_Flow-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Ride-booking mobile app with authentication, routing, trip flow, and payment-ready UX.</p>
+      <p><strong>Tech:</strong> Expo, React Native, Expo Router, Clerk, Stripe, Neon, Maps</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/uber-clone-app">GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Barbershop Queue App <img src="https://img.shields.io/badge/Realtime-7A4C2F?style=flat-square" alt="Realtime"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-React_%2B_Firebase-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Real-time queue management app for shop owners and customers with live status tracking.</p>
+      <p><strong>Tech:</strong> React, Vite, Firebase Auth, Firestore, PWA</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/barbershop-app">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>EduPlan Pro <img src="https://img.shields.io/badge/Archived-8C6B57?style=flat-square" alt="Archived"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-Productivity_App-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Lesson-planning desktop app focused on structured workflow, scheduling, and AI-assisted drafting. The public repository is now archived.</p>
+      <p><strong>Tech:</strong> Electron, JavaScript, Supabase, PDF Export, AI Workflow</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/lesson-planner">GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Premium Plumbing Service Website <img src="https://img.shields.io/badge/Case_Study-D46A2E?style=flat-square" alt="Case Study"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-Responsive_Website-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Service-business website case study built around clearer CTA placement, trust signals, and responsive UX.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript, Responsive Design, UX Strategy</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/Premium-Plumbing-Service-Website">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Studio Guitar Tuner <img src="https://img.shields.io/badge/Interactive-2F5E4E?style=flat-square" alt="Interactive"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-Web_Audio_App-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Browser-based tuning and practice tool with live pitch detection, reference tones, and extra musician utilities.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript, Web Audio API</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/Guitar-Tuner-Web">GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Sushi Website <img src="https://img.shields.io/badge/Landing_Page-AD5C32?style=flat-square" alt="Landing Page"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-Brand_Website-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Promotional website focused on branded presentation, section flow, and responsive visual storytelling.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/Sushi-Website">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Dad Jokes Generator</h3>
+      <p><img src="https://img.shields.io/badge/Preview-API_Project-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Lightweight API project that fetches and presents random jokes with simple feedback and loading states.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript, REST API</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/Dad-Jokes-Generator">GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Classic Pool Game <img src="https://img.shields.io/badge/Game_UI-4D3B2B?style=flat-square" alt="Game UI"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-Interactive_Game-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Interactive browser game project that highlights input handling, UI logic, and feedback-driven gameplay.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/projects/tree/main/Classic-Pool-Game">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Random Password Generator</h3>
+      <p><img src="https://img.shields.io/badge/Preview-Utility_Tool-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Small utility app for generating random passwords with quick-use interaction and copy-friendly output.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/projects/tree/main/Random%20Password%20Generator">GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Projects Hub <img src="https://img.shields.io/badge/Collection-6A5A4A?style=flat-square" alt="Collection"></h3>
+      <p><img src="https://img.shields.io/badge/Preview-Multi_Project_Repo-F3E5D6?style=for-the-badge" alt="Preview placeholder"></p>
+      <p>Repository that groups together additional experiments, small apps, and browser-based frontend builds.</p>
+      <p><strong>Tech:</strong> HTML, CSS, JavaScript, Mixed Frontend Builds</p>
+      <p>
+        <a href="https://github.com/EuriKIMI/projects">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- Portfolio: add your live portfolio link here
+## Contact
+
 - GitHub: [github.com/EuriKIMI](https://github.com/EuriKIMI)
 - LinkedIn: [kimieuriestacio](https://www.linkedin.com/in/kimieuriestacio/)
+- Email: [96874737+EuriKIMI@users.noreply.github.com](mailto:96874737+EuriKIMI@users.noreply.github.com)
+
+## Current Focus
+
+- Building stronger product-style frontend applications
+- Improving UI systems, responsive behavior, and accessibility
+- Creating more employer-ready case studies and polished project presentation
+- Using AI-assisted workflows to speed up planning, implementation, and iteration
