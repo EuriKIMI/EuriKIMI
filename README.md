@@ -155,7 +155,7 @@ I focus on modern web design, frontend development, and UI/UX thinking that impr
 
 - GitHub: [github.com/EuriKIMI](https://github.com/EuriKIMI)
 - LinkedIn: [kimieuriestacio](https://www.linkedin.com/in/kimieuriestacio/)
-- Email: [kimieuri@gmail.com]
+- Email: kimieuri@gmail.com
 
 ## Current Focus
 
